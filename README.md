@@ -7,7 +7,7 @@
 
 --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+!;I'm+redwane-ai;I'm+a+Data+Scientist;...)](https://git.io/typing-svg)
 
 <!---
 redwane-ai/redwane-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
