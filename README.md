@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+!;I'm+redwane-ai;I'm+a+Data+Scientist;and+AI+developer;...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+!;I'm+@redwane-ai;...)
 
 <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 
